@@ -25,7 +25,7 @@ SECRET_KEY = '5gs!^n!oq2jb=52xlmffxidb=l0ho$!s*2cuw25(!2+#-fg+yt'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-#ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'http://niyi.pythonanywhere.com/']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'niyi.pythonanywhere.com']
 
 
 # Application definition
